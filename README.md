@@ -3,28 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Retail Orders Data Analysis</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 4px 6px;
-            border-radius: 4px;
-        }
-        .section {
-            margin-bottom: 25px;
-        }
-    </style>
+    
+           
 </head>
 <body>
 
