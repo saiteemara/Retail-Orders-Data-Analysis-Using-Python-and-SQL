@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Retail Orders Data Analysis</title>
+   
     
            
 </head>
@@ -69,27 +69,6 @@
     </ul>
 </div>
 
-<div class="section">
-    <h2>🚀 How to Run the Project</h2>
-
-    <p><strong>1. Clone the repository</strong></p>
-    <code>git clone https://github.com/yourusername/retail-orders-analysis.git</code>
-
-    <p><strong>2. Set up MySQL database</strong></p>
-    <p>Run <code>order.sql</code> to create the database and required tables.</p>
-
-    <p><strong>3. Load data from Jupyter Notebook to MySQL</strong></p>
-    <ul>
-        <li>Open <code>Orders Data Analysis.ipynb</code> in Jupyter Notebook</li>
-        <li>Install required libraries: pandas, sqlalchemy, mysql-connector-python</li>
-        <li>Read dataset using Pandas</li>
-        <li>Create MySQL connection using SQLAlchemy</li>
-        <li>Insert DataFrame into MySQL tables using <code>to_sql()</code></li>
-    </ul>
-
-    <p><strong>4. Run analysis</strong></p>
-    <p>Execute all cells in the notebook to perform data cleaning, EDA, SQL querying, and visualization.</p>
-</div>
 
 
 <div class="section">
